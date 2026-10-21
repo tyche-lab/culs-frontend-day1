@@ -1,0 +1,13 @@
+{
+  "name": "Rosemary",
+  "latin": "Salvia rosmarinus",
+  "life": "perennial",
+  "use": "Potatoes, bread and roast vegetables.",
+  "description": "An evergreen shrub with leaves like needles and pale blue flowers. It comes from the dry hills around the Mediterranean.",
+  "growing": {
+    "sun": "Full sun",
+    "water": "Little water, soil that drains well",
+    "height": "50 to 150 cm"
+  },
+  "harvest": "Cut sprigs all year round, never more than a third of the plant."
+}

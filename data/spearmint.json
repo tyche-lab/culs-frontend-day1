@@ -1,0 +1,13 @@
+{
+  "name": "Spearmint",
+  "latin": "Mentha spicata",
+  "life": "perennial",
+  "use": "Fresh tea, and it spreads everywhere.",
+  "description": "A fresh herb with a cool smell that grows fast. Its roots run under the soil, so it is best kept in a pot.",
+  "growing": {
+    "sun": "Sun or partial shade",
+    "water": "Likes moist soil",
+    "height": "30 to 100 cm"
+  },
+  "harvest": "Cut the stems at any time; the leaves taste best before flowering."
+}

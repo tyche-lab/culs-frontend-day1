@@ -1,0 +1,13 @@
+{
+  "name": "Chamomile",
+  "latin": "Matricaria chamomilla",
+  "life": "annual",
+  "use": "A calming cup of tea.",
+  "description": "A light, feathery plant with small flowers that look like daisies and smell a little like apples.",
+  "growing": {
+    "sun": "Full sun",
+    "water": "Moderate",
+    "height": "20 to 50 cm"
+  },
+  "harvest": "Pick the flower heads when they are fully open, and dry them."
+}
