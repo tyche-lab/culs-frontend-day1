@@ -21,7 +21,6 @@ learn how to use and grow each herb, and plan their visit.
 - [Error handling](#error-handling)
 - [Deployment](#deployment)
 - [Author](#author)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -89,7 +88,7 @@ To go back, click **← All herbs**.
 
 ## Project structure
 
-
+```text
 culs-frontend-day1/
 ├── index.html        the only HTML page
 ├── style.css         styles
