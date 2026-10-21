@@ -4,6 +4,10 @@
   "life": "perennial",
   "use": "Scent for the wardrobe, a feast for bees.",
   "description": "A shrub with silver leaves and purple flower spikes. The whole plant smells sweet when you brush past it.",
+  "img": {
+    "src": "images/lavender.svg",
+    "alt": "A single lavender stem and a small bunch tied with string, both with purple flower spikes"
+  },
   "growing": {
     "sun": "Full sun",
     "water": "Little water, soil that drains well",

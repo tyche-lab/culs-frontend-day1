@@ -4,6 +4,10 @@
   "life": "perennial",
   "use": "Butter sauces and tea.",
   "description": "A bushy herb with soft, velvety, greyish green leaves and a strong, warm taste.",
+  "img": {
+    "src": "images/sage.svg",
+    "alt": "A line drawing of a sage stem with long leaves and flower spikes"
+  },
   "growing": {
     "sun": "Full sun",
     "water": "Moderate, soil that drains well",

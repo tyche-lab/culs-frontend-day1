@@ -4,10 +4,32 @@
   "life": "perennial",
   "use": "Potatoes, bread and roast vegetables.",
   "description": "An evergreen shrub with leaves like needles and pale blue flowers. It comes from the dry hills around the Mediterranean.",
+  "img": {
+    "src": "images/rosemary.svg",
+    "alt": "Two sprigs of rosemary with narrow leaves like needles"
+  },
   "growing": {
     "sun": "Full sun",
     "water": "Little water, soil that drains well",
     "height": "50 to 150 cm"
   },
-  "harvest": "Cut sprigs all year round, never more than a third of the plant."
+  "harvest": "Cut sprigs all year round, never more than a third of the plant.",
+  "steps": [
+    "Plant it in the sunniest spot you have.",
+    "Use light soil that drains well; rosemary does not like wet roots.",
+    "Water only when the top of the soil feels dry.",
+    "In a cold winter, grow it in a pot and keep it in a bright place without frost.",
+    "Trim it after flowering to keep it bushy, but do not cut into old, bare wood."
+  ],
+  "uses": [
+    "Roast it with potatoes and vegetables, or bake a sprig into bread.",
+    "Chop the leaves finely for marinades, soups and stews.",
+    "Tie a few sprigs together for a fragrant bundle in the kitchen.",
+    "Leave the pale blue flowers on the plant for the bees in spring."
+  ],
+  "video": {
+    "youtube": "Lr35gagWw6Y",
+    "title": "Rosemary growing guide: planting, growing and propagation",
+    "author": "Growing In The Garden"
+  }
 }

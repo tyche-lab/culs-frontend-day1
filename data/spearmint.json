@@ -4,6 +4,10 @@
   "life": "perennial",
   "use": "Fresh tea, and it spreads everywhere.",
   "description": "A fresh herb with a cool smell that grows fast. Its roots run under the soil, so it is best kept in a pot.",
+  "img": {
+    "src": "images/spearmint.svg",
+    "alt": "A cluster of spearmint leaves with toothed edges"
+  },
   "growing": {
     "sun": "Sun or partial shade",
     "water": "Likes moist soil",
