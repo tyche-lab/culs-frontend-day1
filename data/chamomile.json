@@ -4,6 +4,10 @@
   "life": "annual",
   "use": "A calming cup of tea.",
   "description": "A light, feathery plant with small flowers that look like daisies and smell a little like apples.",
+  "img": {
+    "src": "images/chamomile.svg",
+    "alt": "A line drawing of flowers that look like daisies, on tall stems"
+  },
   "growing": {
     "sun": "Full sun",
     "water": "Moderate",

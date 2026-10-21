@@ -4,6 +4,10 @@
   "life": "perennial",
   "use": "Soups and stews. Bees love its flowers.",
   "description": "A small, woody herb with tiny greyish green leaves. In early summer it is covered in pink flowers full of bees.",
+  "img": {
+    "src": "images/thyme.svg",
+    "alt": "A sprig of thyme with small greyish green leaves on thin brown stems"
+  },
   "growing": {
     "sun": "Full sun",
     "water": "Dry soil that drains well",

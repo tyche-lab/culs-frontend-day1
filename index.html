@@ -6,9 +6,10 @@
   <title>The Little Herb Garden</title>
   <link rel="icon" href="images/logo.svg" type="image/svg+xml">
   <link rel="stylesheet" href="style.css">
-  <script src="app.js" defer></script>
+  <script type="module" src="app.js"></script>
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <header class="site-header">
     <img class="logo" src="images/logo.svg" alt="" width="48" height="48">
     <p class="site-name"><a href="#">The Little Herb Garden</a></p>
@@ -21,7 +22,7 @@
     </nav>
   </header>
 
-  <main>
+  <main id="main-content" tabindex="-1">
     <div id="home">
       <section class="intro">
         <div>
@@ -65,12 +66,22 @@
       </section>
     </div>
 
-    <article id="herb-view" class="herb" hidden></article>
+    <article id="herb-view" hidden></article>
   </main>
 
   <footer>
     <p>Made with HTML, CSS and JavaScript.
       <a href="https://developer.mozilla.org/">MDN</a> helped.</p>
   </footer>
+
+  <script>
+    // Modules do not load from a file:// page, so app.js cannot say this itself.
+    if (location.protocol === "file:") {
+      const count = document.querySelector(".count")
+      count.textContent =
+        "This page needs a web server. Run npx serve and open the address it prints."
+      count.classList.add("error")
+    }
+  </script>
 </body>
 </html>

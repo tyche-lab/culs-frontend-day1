@@ -4,6 +4,10 @@
   "life": "perennial",
   "use": "Bread and butter, eggs, potatoes.",
   "description": "A small relative of the onion with hollow green leaves and round purple flowers.",
+  "img": {
+    "src": "images/chives.svg",
+    "alt": "A bunch of long, thin, green chive leaves"
+  },
   "growing": {
     "sun": "Sun or partial shade",
     "water": "Keep the soil moist",
