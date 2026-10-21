@@ -1,0 +1,13 @@
+{
+  "name": "Chives",
+  "latin": "Allium schoenoprasum",
+  "life": "perennial",
+  "use": "Bread and butter, eggs, potatoes.",
+  "description": "A small relative of the onion with hollow green leaves and round purple flowers.",
+  "growing": {
+    "sun": "Sun or partial shade",
+    "water": "Keep the soil moist",
+    "height": "20 to 40 cm"
+  },
+  "harvest": "Cut the leaves 2 to 3 cm above the soil; they grow back quickly."
+}

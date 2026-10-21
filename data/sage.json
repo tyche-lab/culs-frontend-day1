@@ -1,0 +1,13 @@
+{
+  "name": "Sage",
+  "latin": "Salvia officinalis",
+  "life": "perennial",
+  "use": "Butter sauces and tea.",
+  "description": "A bushy herb with soft, velvety, greyish green leaves and a strong, warm taste.",
+  "growing": {
+    "sun": "Full sun",
+    "water": "Moderate, soil that drains well",
+    "height": "30 to 70 cm"
+  },
+  "harvest": "Pick leaves as you need them; cut the plant back in spring."
+}

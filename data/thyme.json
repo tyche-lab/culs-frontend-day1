@@ -1,0 +1,13 @@
+{
+  "name": "Thyme",
+  "latin": "Thymus vulgaris",
+  "life": "perennial",
+  "use": "Soups and stews. Bees love its flowers.",
+  "description": "A small, woody herb with tiny greyish green leaves. In early summer it is covered in pink flowers full of bees.",
+  "growing": {
+    "sun": "Full sun",
+    "water": "Dry soil that drains well",
+    "height": "15 to 30 cm"
+  },
+  "harvest": "Snip the soft tips; trim the plant after it flowers."
+}

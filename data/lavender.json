@@ -1,0 +1,13 @@
+{
+  "name": "Lavender",
+  "latin": "Lavandula angustifolia",
+  "life": "perennial",
+  "use": "Scent for the wardrobe, a feast for bees.",
+  "description": "A shrub with silver leaves and purple flower spikes. The whole plant smells sweet when you brush past it.",
+  "growing": {
+    "sun": "Full sun",
+    "water": "Little water, soil that drains well",
+    "height": "30 to 60 cm"
+  },
+  "harvest": "Cut the flower spikes when the first flowers open."
+}

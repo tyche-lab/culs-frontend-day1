@@ -1,0 +1,13 @@
+{
+  "name": "Basil",
+  "latin": "Ocimum basilicum",
+  "life": "annual",
+  "use": "Tomatoes, pesto and anything summery.",
+  "description": "A herb that loves warm weather, with soft leaves that smell sweet. It hates cold nights and loves a sunny windowsill.",
+  "growing": {
+    "sun": "Full sun",
+    "water": "Keep the soil moist, water at the base",
+    "height": "30 to 60 cm"
+  },
+  "harvest": "Pinch off the top leaves often, before the plant flowers."
+}
